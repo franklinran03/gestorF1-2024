@@ -1,0 +1,22 @@
+[
+  {
+    "nombre": "MiniTeam",
+    "directorGeneral": "Alguien",
+    "paisOrigen": "Neverland",
+    "campeonatosGanados": 0,
+    "puntosMundialConstructores": 0,
+    "pilotos": [
+      {
+        "nombre": "Test",
+        "apellido": "Driver",
+        "equipo": null,
+        "edad": 30,
+        "paisOrigen": "Nowhere",
+        "campeonatosGanados": 0,
+        "carrerasDisputadas": 0,
+        "puntosTemporada": 0,
+        "posiciones": {}
+      }
+    ]
+  }
+]
